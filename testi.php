@@ -3,7 +3,6 @@
 
 <?php
 
-/* exec('sudo python /home/pi/piglow/lightsoff.py'); */
 
 $mode = $_POST['mode'];
 $brightness = $_POST['brightness'];
