@@ -1,11 +1,5 @@
 #!/usr/bin/python
 
-######################################
-## A binary clock using the PiGlow  ##
-##                                  ##
-##  Example by Jason - @Boeeerb     ##
-######################################
-
 from piglow import PiGlow
 from time import sleep
 from datetime import datetime
