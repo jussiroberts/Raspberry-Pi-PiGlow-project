@@ -1,0 +1,43 @@
+@charset "utf-8";
+body
+{
+background-color:#383838;
+background-image:url(../images/tausta.png);
+background-attachment:scroll;
+background-repeat:repeat-x;
+background-position: top center;
+margin:0;
+padding:0;
+}
+
+/* Linkstyles */
+
+a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+	text-transform:underline;
+	font-size:13px;
+	font-family:"Arial",Verdana,Sans-serif; }
+
+a:visited {
+	color:#FFFFFF;
+	text-decoration:none;
+	text-transform:underline;
+	font-size:13px; }
+	font-family:"Arial",Verdana,Sans-serif; }
+	
+a:active {
+	color:#999999; }
+
+
+a:hover {
+	font-size:13px;
+	font-color:#006699;
+	text-decoration:underline;
+	text-transform:underline; }
+	font-family:"Arial",Verdana,Sans-serif; }
+
+img.links
+{
+border-style:none;
+}
